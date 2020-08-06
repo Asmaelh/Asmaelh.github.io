@@ -1,1 +1,0 @@
-# krishna.by.github.io
