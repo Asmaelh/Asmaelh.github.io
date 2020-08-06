@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php
 require_once('DiDom/ClassAttribute.php');
 require_once('DiDom/Document.php');
@@ -16,7 +17,6 @@ use DiDom\Query;
 use DiDom\StyleAttribute;
 use DiDom\Exceptions\InvalidSelectorException; 
 ?>
-<!DOCTYPE html>
 <html lang='ru'>
 
 <head>
